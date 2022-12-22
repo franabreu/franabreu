@@ -1,6 +1,6 @@
-## Backend Developer (NodeJS, TypeScript & Google Cloud)
+# Backend Developer (NodeJS, TypeScript & Google Cloud)
 
-# 💻 Currently working at [eºmergya](https://www.emergya.com/en) developing virtual assistants!
+## 💻 Currently working at [eºmergya](https://www.emergya.com/en) developing virtual assistants!
 
 👨‍🎓 Software Engineer, Universidad de Sevilla.
 ☁️ Associate Cloud Engineer, Google Cloud Platform.
