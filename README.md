@@ -1,14 +1,14 @@
 ## Backend Developer (NodeJS, TypeScript & Google Cloud)
 
-🔭 Currently working at [eºmergya](https://www.emergya.com/en), a Spanish company. I work developing virtual assistants! 
+🔭 Currently working at [eºmergya](https://www.emergya.com/en), developing virtual assistants! 
 
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
   <a href="https://www.linkedin.com/in/francisco-javier-abreu/">
-    <img src="https://github.com/franabreu/franabreu/blob/master/linkedin.svg" alt="Connect on Linkedin">
+    <img src="https://github.com/franabreu/franabreu/blob/master/assets/linkedin.svg" alt="Connect on Linkedin">
   </a>
   <a href="https://github.com/franabreu/">
-    <img src="https://github.com/franabreu/franabreu/blob/master/github.png" alt="Follow me on Github">
+    <img src="https://github.com/franabreu/franabreu/blob/master/assets/github.svg" alt="Follow me on Github">
   </a>
 </div>
 
