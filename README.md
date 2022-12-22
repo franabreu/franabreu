@@ -1,6 +1,6 @@
 ## Backend Developer (NodeJS, TypeScript & Google Cloud)
 
-🔭 Currently working at eºmergya, a Spanish company. I work with great people and we are using great technologies! 
+🔭 Currently working at [eºmergya](https://www.emergya.com/en), a Spanish company. I work developing virtual assistants! 
 
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
