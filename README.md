@@ -1,4 +1,13 @@
-### Hi there 👋
+## Backend Developer (NodeJS, TypeScript & Google Cloud)
+
+🔭 Currently working at eºmergya, a Spanish company. I work with great people and we are using great technologies! 
+
+
+<div align="center" style="background:#414a50; padding: 25px 0;">
+  <a href="https://www.linkedin.com/in/francisco-javier-abreu/">
+    <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+  </a>
+</div>
 
 <!--
 **franabreu/franabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
